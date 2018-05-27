@@ -1,6 +1,9 @@
 [package]
 name = "keycodes"
 version = "0.1.0"
-authors = ["Your Name <you@example.com>"]
-
-[dependencies]
+authors = ["SpiralP <spiral.palmer@gmail.com>"]
+description = "Key Code Constants"
+readme = "README.md"
+repository = "https://github.com/SpiralP/rust-keycodes"
+license = "MIT"
+keywords = ["keycode", "keycodes", "key", "code", "codes"]
